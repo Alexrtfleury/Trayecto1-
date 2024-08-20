@@ -1,3 +1,3 @@
-# Trayecto1-
-Muestra de mi primer proyecto universitario realizado 04/04/2019
+# Sistema de inventario
+Muestra de mi primer proyecto universitario realizado  trayecto 1
 
